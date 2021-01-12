@@ -7,6 +7,7 @@ public class Student {
     private String personNummer, name;
     private int age;
 
+
     /**
      * Basic constructor for a Student
      * @param personNummer String: Social security number
